@@ -1,0 +1,17 @@
+#spelling-block{
+  display:flex;
+}
+
+.syllable{
+  padding:5px;
+}
+
+.root{
+  display:flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+  column-gap: 10px;
+  height:100vh;
+  
+}
